@@ -3,8 +3,8 @@ from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote_plus
 from urllib.request import Request, urlopen
-from flask import Flask, render_template
-from flask import Flask, abort, jsonify, render_template, request, send_from_directory
+from flask import Flask, render_template, request
+import flask
 
 BASE_DIR = Path(__file__).resolve().parent
 TEMPLATE_DIR = BASE_DIR / 'templates'
