@@ -3,7 +3,7 @@ from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote_plus
 from urllib.request import Request, urlopen
-
+from flask import Flask, render_template
 from flask import Flask, abort, jsonify, render_template, request, send_from_directory
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -68,6 +68,8 @@ def external_trending():
             payload = json.loads(response.read().decode('utf-8'))
     except (HTTPError, URLError, TimeoutError, ValueError):
         return jsonify({'tracks': []})
+
+    
 
     tracks = []
     for item in payload.get('results', [])[:5]:
