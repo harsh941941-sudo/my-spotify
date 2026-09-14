@@ -1,0 +1,25 @@
+[22:35:47] INFO google.antigravity is unavailable. Agent features are disabled.
+[22:35:49] INFO ADB initialization failed: ERROR: connecting to 127.0.0.1:5037 [WinError 10061] No connection could be made because the target machine actively refused it.
+Is adb running on your computer?
+[22:35:49] INFO Microphone unavailable: Could not find PyAudio; check installation
+[22:35:49] INFO JARVIS initialized without voice input support.
+[22:35:50] INFO Voice input is unavailable; the web dashboard will remain running.
+[22:37:35] INFO google.antigravity is unavailable. Agent features are disabled.
+[22:37:59] INFO google.antigravity is unavailable. Agent features are disabled.
+[22:38:01] INFO ADB initialization failed: ERROR: connecting to 127.0.0.1:5037 [WinError 10061] No connection could be made because the target machine actively refused it.
+Is adb running on your computer?
+[22:38:01] INFO Microphone unavailable: Could not find PyAudio; check installation
+[22:38:01] INFO JARVIS initialized without voice input support.
+[22:38:02] INFO Voice input is unavailable; the web dashboard will remain running.
+[22:39:43] INFO google.antigravity is unavailable. Agent features are disabled.
+[22:39:45] INFO ADB initialization failed: ERROR: connecting to 127.0.0.1:5037 [WinError 10061] No connection could be made because the target machine actively refused it.
+Is adb running on your computer?
+[22:39:45] INFO Microphone unavailable: Could not find PyAudio; check installation
+[22:39:45] INFO JARVIS initialized without voice input support.
+[22:39:46] INFO Voice input is unavailable; the web dashboard will remain running.
+[22:41:06] INFO google.antigravity is unavailable. Agent features are disabled.
+[22:41:08] INFO ADB initialization failed: ERROR: connecting to 127.0.0.1:5037 [WinError 10061] No connection could be made because the target machine actively refused it.
+Is adb running on your computer?
+[22:41:08] INFO Microphone unavailable: Could not find PyAudio; check installation
+[22:41:08] INFO JARVIS initialized without voice input support.
+[22:41:09] INFO Voice input is unavailable; the web dashboard will remain running.
